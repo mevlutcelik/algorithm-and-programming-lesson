@@ -1,5 +1,6 @@
 # Bu uygulamada Aritmetik Operatörleri Öğreneceğiz
 
+
 print(2+2)                  # Toplama Operatörü
 print(1-3)                  # Çıkarma Operatörü
 print(3.0*5)                # Çarpma Operatörü
