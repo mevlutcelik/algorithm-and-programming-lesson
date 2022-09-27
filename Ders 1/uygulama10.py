@@ -1,2 +1,2 @@
-r = int(input("Yarı çapı giriniz:"))
-print(r)
+r = float(input("Yarı çapı giriniz:"))
+print(r+2)
