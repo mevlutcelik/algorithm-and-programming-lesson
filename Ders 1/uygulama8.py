@@ -3,10 +3,6 @@
 r = 8.2
 pi = 3.14
 
-print("Çevre:")
-print(pi * (r ** 2))
 
-print("####################")
-
-print("Alan:")
-print(2 * pi * r)
+print("Çevre" + str(pi * (r ** 2)))
+print("Alan:" + str(2 * pi * r))
