@@ -1,4 +1,3 @@
-# Bu bir yorum satırıdır.
-
-print(2+2)
-print("merhaba")
+# Soru: Ekrana adınızı soyadınızı yazınız
+print("Adınız:\t\tMevlüt")
+print("Soyadınız:\tÇelik")
