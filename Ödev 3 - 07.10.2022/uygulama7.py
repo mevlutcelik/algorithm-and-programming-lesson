@@ -1,13 +1,12 @@
 # Mevlüt Çelik
 # 07.10.2022
-# Kullanıcıdan Adını soyadını, yaşını alıp, Kişinin evlenebileceği kişinin maksimum yaşını 2x-20  denklemine göre hesaplayan programı yazınız. (x = kişinin kendi yaşı)
+# Kullanıcıdan küpün 1 kenar uzunluğunu alarak alanını ve hacmini hesaplayarak sonucu ekrana yazdıran programı yazınız.
 
 
-adsoyad = input("Adınızı ve Soyadınızı giriniz: ")
-yas = int(input("Yaşınızı giriniz: "))
+kenar = float(input("Küpün kenar uzunluğunu giriniz: "))
+hacim = str(kenar ** 3)
+alan = str(6 * (kenar ** 2))
 
 
-evlenecegiMaxYas = str(2 * yas - 20)
-
-
-print("Sn. " + adsoyad + " evlenebileceğiniz kişinin maksimum yaşı: " + evlenecegiMaxYas)
+print("Küpün hacmi: " + hacim)
+print("Küpün alanı: " + alan)
