@@ -9,3 +9,10 @@
 # Binary (2 lik taban) = 1100110
 # Octal (8 lik taban) = 62
 # Char (Karakter, Klavyede basılan tuş) = 2
+
+
+sayi = input("Sayı giriniz: ")
+
+hexadecimal = hex(int(ord(sayi)))
+
+print("Girdiğiniz sayının 16 lık tabandaki karşılığı: " + str(hexadecimal))
