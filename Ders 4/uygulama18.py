@@ -1,4 +1,4 @@
-mesaj = "Merhaba benim adım Mevlüt Çelik"
+mesaj = "    Merhaba benim adım Mevlüt Çelik   "
 
 mesaj = mesaj.strip()
 
