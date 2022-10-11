@@ -2,4 +2,4 @@ ad = "Mevlüt"
 soyad = "Çelik"
 yas = 19
 
-print("Ben {ad} {soyad} ve yaşım {yas}".format(ad = ad, soyad = soyad, yas = yas))
+print("Benim adım {ad} soyadım {soyad} ve ben {yas} yaşındayım".format(ad = ad, soyad = soyad, yas = yas))
