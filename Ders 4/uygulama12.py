@@ -1,1 +1,2 @@
-print(f"İşlemin sonucu: {2/7}")
+sonuc = 2/7
+print(f"İşlemin sonucu: {sonuc:1.4}")
