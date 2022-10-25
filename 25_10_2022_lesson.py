@@ -15,3 +15,35 @@ plakalar = {
 }
 
 print(plakalar)
+print(plakalar["Mersin"])
+
+
+ID = {
+    "tc"        : "11111111111",
+    "adsoyad"   : "Mevlüt Çelik"
+}
+
+print(ID)
+
+
+
+
+
+users = {
+    "mevlüt" : {
+        "yas"       : 19,
+        "email"     : "mevlutcelik@eposta.com",
+        "adres"     : "Mersin",
+        "telefon"   : "+90 (555) 555 55 55"
+    },
+    "hava" : {
+        "yas"       : 21,
+        "email"     : "havaince@eposta.com",
+        "adres"     : "Mersin",
+        "telefon"   : "+90 (555) 555 66 66"
+    }
+}
+
+
+print(users["mevlüt"])
+print(users["mevlüt"]["telefon"])
