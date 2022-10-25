@@ -49,8 +49,7 @@ print(users["mevlüt"])
 print(users["mevlüt"]["telefon"])
 
 
-
-x = 20
+x,y,z = 20,10,30
 x += 10
 x *= 2
 x /= 3
