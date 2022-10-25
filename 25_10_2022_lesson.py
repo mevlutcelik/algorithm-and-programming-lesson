@@ -55,3 +55,8 @@ x *= 2
 x /= 3
 x -= 10
 print(x)
+
+
+degerler = [1,3,4,6,8,32]
+x,*y,z=degerler
+print(y)
