@@ -47,3 +47,12 @@ users = {
 
 print(users["mevlüt"])
 print(users["mevlüt"]["telefon"])
+
+
+
+x = 20
+x += 10
+x *= 2
+x /= 3
+x -= 10
+print(x)
